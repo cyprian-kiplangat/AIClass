@@ -42,7 +42,7 @@ You need these installed on your computer:
 ### Step 1: Clone or Download the Project
 ```bash
 # If you have git installed
-git clone <repository-url>
+git clone https://github.com/cyprian-kiplangat/AIClass.git
 cd AIClass
 
 # Or download the ZIP file and extract it
